@@ -1,0 +1,123 @@
+@charset "utf-8";
+img {
+	height: auto;
+	width: 100%;
+}
+#wrapper #header #theTarget {
+	height: 400px;
+	background-color: #D4D0C8;
+	width: 100%;
+}
+#wrapper #header #top #inner-top .r-block ul {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+#wrapper #header #top #inner-top .r-block ul li {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	background-color: #626262;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D4D0C8;
+}
+#wrapper #header #top #inner-top .r-block ul li a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 16px;
+}
+#wrapper #header #top #inner-top .r-block p {
+	font-size: 9px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+
+#wrapper #footer #inner-footer .l-block ul {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+#wrapper #footer #inner-footer .l-block ul li {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	background-color: #626262;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D4D0C8;
+}
+#wrapper #footer #inner-footer .l-block ul li a {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 16px;
+}#wrapper #footer #inner-footer p {
+	font-size: 12px;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+#wrapper #contents #main .cont-block h2 {
+	color: #666;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999;
+	margin-bottom: 5px;
+}
+#wrapper #contents #main .cont-block p {
+	color: #333;
+	margin-bottom: 50px;
+}
+#wrapper #contents #main .cont-block h2 a {
+	text-decoration: none;
+	color: #666;
+}
+#wrapper #contents #main2 h1 {
+	font-size: 36px;
+	color: #666666;
+	background-image: url(../img/h1bg.jpg);
+	background-repeat: no-repeat;
+	padding-bottom: 10px;
+	background-position: bottom;
+	margin-bottom: 20px;
+	padding-left: 15px;
+	text-align: left;
+}
+#wrapper #contents #main2 h2 {
+	font-size: 26px;
+	color: #F90;
+	padding-left: 10px;
+	margin-bottom: 15px;
+	margin-top: 50px;
+}#wrapper #contents #main2 .ryukin {
+	background-color: #F3F7F8;
+	border: 1px solid #D4D0C8;
+	padding: 15px;
+}
+#wrapper #contents #main2 .ryukin h3 {
+	color: #333;
+}
+#wrapper #contents #main2 .ryukin p big strong {
+	color: #090;
+}
+#wrapper #contents #main2 table {
+	margin-bottom: 50px;
+}
+#wrapper #contents #main2 table tr td {
+	padding: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #D4D0C8;
+}
+#wrapper #contents #main2 table tr td img {
+	width: 80%;
+}

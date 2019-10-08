@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Lagoon８kisei JUNKANEMOTO</title>
+<link rel="stylesheet" href="css/skippr.css" />
+<meta name="description" content="沖縄の写真撮影なら「あがいてぃら」個人向けの撮影サービスから、商業写真の撮影まで格安で承っております。ブライダルから建築写真までなんなりとご依頼ください。" />
+<meta name="keywords" content="写真,格安,ポートレート,プロフィール" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 21.0.5.0 for Windows" />
+<link rel="stylesheet" href="css/spstyle.css" type="text/css" media="screen and (max-width: 1024px)" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen and (min-width: 1025px)" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+    	<div id="top">
+        	<div id="inner-top" class="clearfix"><div class="l-block"><a href="/"><img src="img/logo.png" width="265" height="91" /></a></div>
+            <div class="r-block"><p>&nbsp;</p><ul><li><a href="/">トップページ</a></li><li><a href="pamphlet_photo.html">商業写真撮影</a></li><li><a href="composite_photo.html">個人写真撮影</a></li><li><a href="contact.html">お問合せ・お申込み</a></li><li><a href="about_us.html">アクセスマップ</a></li></ul></div></div><!--inner-top end-->
+        </div><!--top end-->
+    	<div id="theTarget">
+      <div style="background-image: url(img/image1.jpg);"></div>
+      <div style="background-image: url(img/image2.jpg);"></div>
+      <div style="background-image: url(img/image3.jpg);"></div>
+    </div><!--thetarget end-->
+	</div><!--header end-->
+	<div id="contents">
+    	<div id="main">
+        <div align="center"><img src="img/img001.jpg" /></div>
+        
+<div class="area1">
+  <p><img src="img/img000.jpg" align="right" />いまから４９年と３か月ほど前に私は誕生したから今があります。すでに、兄１人、姉３人がいて、５番目が私で、さらに２歳下に妹が誕生して、両親と８人家族でした</p></div>
+
+<div class="cont-block">
+  <div class="l-col"> <a href="pamphlet_photo.html"><img src="img/img002.jpg" width="316" height="211" /></a>
+    <h2><a href="pamphlet_photo.html">あっという間に</a></h2>
+    <p>６人兄弟は、それぞれに家庭を持ち、さらに幸せ拡大中</p>
+    <p class="r-txt"><a href="pamphlet_photo.html">詳細はこちら＞＞</a></p>
+  </div><div class="c-col"><a href="composite_photo.html"><img src="img/img003.jpg" width="316" height="211" /></a>
+    <h2><a href="composite_photo.html">えっ、いつから白いのか？</a></h2>
+    <p>いつから白髪なのか？改めて考えてみても、思い出せない。どうでもいいでしょ、まったく</p>
+    <p class="r-txt"><a href="composite_photo.html">詳細はこちら＞＞</a></p>
+  </div>
+    <div class="r-col"><a href="composite_photo.html"><img src="img/img004.jpg" width="316" height="211" /></a>
+      <h2><a href="composite_photo.html">アプリ作れるようになったら良いな</a></h2>
+    <p>あと、２年で子育ても終わりそうなので、沖縄旅行の思い出の写真やセルフポートレート、ご家族、ご親戚での各種イベントの撮影まで承っております。</p>
+    <p class="r-txt"><a href="composite_photo.html">詳細はこちら＞＞</a></p>
+    </div><br clear="all" /></div>
+
+<div class="cont-block ">
+  <div class="l-col">
+          </div>
+      </div>
+    </div><!--main end-->
+	</div><!--contents end-->
+	<div id="footer">
+    	<div id="inner-footer" class="clearfix">
+            <div class="l-block"><ul><li><a href="/">トップページ</a></li><li><a href="pamphlet_photo.html">商業写真撮影</a></li><li><a href="composite_photo.html">個人写真撮影</a></li><li><a href="contact.html">お問合せ・お申込み</a></li><li><a href="about_us.html">アクセスマップ</a></li></ul></div><div class="r-block"><a href="/"><img src="img/logo_btm.jpg" alt="写真撮影のあがいてぃら" /></a></div><br clear="all" />
+        <p>Copyright 2017 AGAITYRA  All Rights Reserved</p></div><!--inner footer end-->
+	</div><!--footer end-->
+</div><!--wrapper end-->
+
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="js/skippr.js"></script>
+<script>
+$(document).ready(function(){
+
+    $("#theTarget").skippr();
+
+});
+</script>
+<script>
+$("#theTarget").skippr({
+
+        transition: 'slide',
+        speed: 1000,
+        easing: 'easeOutQuart',
+        navType: 'bubble',
+        childrenElementType: 'div',
+        arrows: false,
+        autoPlay: true,
+        autoPlayDuration: 5000,
+        keyboardOnAlways: true,
+        hidePrevious: false
+
+    });
+</script>
+
+</body>
+</html>
